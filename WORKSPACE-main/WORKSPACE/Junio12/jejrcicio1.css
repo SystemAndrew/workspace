@@ -1,0 +1,20 @@
+.regla {
+    display: inline-block; width: 30%; height: 20%;
+}
+h1 {
+   color:  rgb(52, 121, 6); font-family: cursive; 
+}
+h2 {
+    color: rgb(52, 121, 6); font-family: cursive; 
+}
+h3{
+    color: rgb(52, 121, 6); font-family: cursive;
+}
+body {
+    background-color: rgb(233, 255, 215);
+}
+#objeivo {
+    color: rgb(0, 0, 0);
+}
+
+

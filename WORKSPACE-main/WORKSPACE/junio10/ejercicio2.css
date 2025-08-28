@@ -1,0 +1,30 @@
+#Tristeza {
+    background-color: rgb(140, 169, 233);
+}
+#Alegria {
+    background-color: rgb(255, 251, 35);
+}
+#Furia {
+    background-color: rgb(255, 35, 35);
+}
+#Temor {
+    background-color: rgb(177, 7, 140);
+}
+#Ansiedad {
+    background-color: rgb(252, 166, 6);
+}
+#Aburrimiento {
+    background-color: rgb(35, 222, 255);
+}
+#Desagrado {
+    background-color: rgb(93, 233, 50);
+}
+#Nostalgia {
+    background-color: rgb(114, 114, 108);
+}
+#Envidia {
+    background-color: rgb(207, 94, 183);
+}
+h1 {
+    font-family: cursive;
+}

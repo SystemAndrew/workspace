@@ -1,0 +1,24 @@
+.contacto {
+    display: inline-block;
+    width: 30%;
+    background: #ecabab;
+}
+.contacto1 {
+    display: inline-block;
+    width: 30%;
+    background-color: rgb(174, 138, 207);
+}
+div .nombre {
+    font-family: cursive;
+    background-color: rgb(187, 99, 153);
+    text-align: center;
+}
+.nombre { 
+    background-color: rgb(225, 114, 240);
+}
+div .nombre {
+    background-color: rgb(247, 116, 214);
+}
+h1 { 
+    text-align: center;
+}
